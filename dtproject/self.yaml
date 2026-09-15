@@ -1,8 +1,8 @@
-name: "<PROJECT_NAME_HERE>"
+name: "my-project"
 maintainer:
-    name: "ECEN 433 Student"
-    email: "ecen433student@gmail.com"
-description: "ROS project for Duckietown"
+    name: "Dustin Hatch"
+    email: "djhatch@byu.edu"
+description: "My first Duckietown project"
 version: 0.0.0
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 icon: y-combinator
